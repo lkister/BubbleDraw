@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    /* height: 500px; */
+    /* width: 1000px; */
+    /* display: block;
+    /* position: absolute; */
+    overflow: hidden;
+    background-color: grey;
+}
